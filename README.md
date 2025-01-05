@@ -1,19 +1,18 @@
 Here is the text you should write in the `README.md` file for your **School Management System with AI** project:
 
 ---
-
-# School Management System with AI
+School Management System with AI
 
 This project is a comprehensive **School Management System** integrated with Artificial Intelligence to enhance administrative tasks and improve user experience. It offers features such as automated attendance, student and teacher management, fee tracking, and AI-driven analytics.
 
 ---
 Features
-AI-Powered Attendance**: Facial recognition for automated attendance tracking.
-Student Management**: Add, edit, and manage student details.
-Teacher Scheduling**: Manage teacher schedules efficiently.
-Fee Management**: Track student fee records and generate invoices.
-Data Analytics**: Gain insights using AI-driven data analysis.
-Role-Based Access Control**: Separate dashboards for admins, teachers, and students.
+AI-Powered Attendance: Facial recognition for automated attendance tracking.
+Student Management: Add, edit, and manage student details.
+Teacher Scheduling: Manage teacher schedules efficiently.
+Fee Management: Track student fee records and generate invoices.
+Data Analytics: Gain insights using AI-driven data analysis.
+Role-Based Access Control: Separate dashboards for admins, teachers, and students.
 
 ---
 
