@@ -1,6 +1,3 @@
-Here is the text you should write in the `README.md` file for your **School Management System with AI** project:
-
----
 School Management System with AI
 
 This project is a comprehensive **School Management System** integrated with Artificial Intelligence to enhance administrative tasks and improve user experience. It offers features such as automated attendance, student and teacher management, fee tracking, and AI-driven analytics.
